@@ -1,2 +1,2 @@
 ## Hola mundo 
-![ItsJustLink](assets/toonlink.jpg)
+![ItsJustLink](assets/toonlinkresized.jpg)
